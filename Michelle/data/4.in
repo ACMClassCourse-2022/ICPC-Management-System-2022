@@ -1,0 +1,300 @@
+ADD student_LP M 8 17 74 94 57 88 31 55 18 28
+ADD student_USD F 5 90 55 6 11 18 88 92 90 82
+ADD student_GMFFN F 14 40 71 13 38 70 36 1 7 78
+ADD student_FOXZP F 2 79 42 77 91 38 13 0 64 95
+ADD student_MK F 19 17 74 94 57 88 31 55 18 28
+ADD student_QV F 15 32 98 65 59 85 7 28 73 85
+ADD student_EZYC F 7 14 4 36 67 22 71 66 69 82
+ADD student_FSMKW M 14 74 30 70 91 65 73 82 81 18
+ADD student_RNQK F 11 81 79 80 19 41 40 28 32 5
+ADD student_MNECASL F 5 8 31 36 9 73 3 95 73 0
+ADD student_ZBE F 11 38 10 83 55 44 19 45 82 15
+ADD student_EGKU M 6 34 39 33 74 62 32 18 58 49
+ADD student_BRKEM M 8 94 7 4 53 47 25 27 64 54
+ADD student_ATUKUK M 17 97 45 79 8 68 29 2 90 45
+ADD student_IVQ F 15 94 7 4 53 47 25 27 64 54
+ADD student_MF M 7 14 53 51 21 30 45 49 17 9
+ADD student_SIIU F 3 93 40 73 35 54 80 29 20 2
+ADD student_TLRLPY F 11 26 18 72 75 97 54 1 85 57
+ADD student_PVDB F 9 21 35 11 44 71 22 15 83 75
+ADD student_OFJLP F 6 93 73 84 93 78 80 62 97 58
+ADD student_SPOKPZE F 5 19 80 17 29 56 87 51 16 32
+ADD student_IVFCTA F 3 14 53 51 21 30 45 49 17 9
+ADD student_RZ F 1 29 93 70 93 60 13 93 49 52
+ADD student_NVSN M 16 21 50 92 50 49 61 94 100 64
+START
+UPDATE student_SPOKPZE 8 53
+QUERY student_MNECASL
+UPDATE student_FOXZP 3 6
+QUERY student_MNECASL
+QUERY student_MF
+QUERY student_SIIU
+QUERY student_LP
+UPDATE student_USD 8 6
+QUERY student_IVFCTA
+UPDATE student_SIIU 7 3
+UPDATE student_OFJLP 0 21
+QUERY student_MK
+UPDATE student_CRHICLY 8 74
+FLUSH
+UPDATE student_EGKU 0 7
+UPDATE student_NGIJAC 0 31
+UPDATE student_ATUKUK 5 99
+QUERY student_IVFCTA
+QUERY student_USD
+UPDATE student_OFJLP 3 60
+QUERY student_MNECASL
+UPDATE student_IVQ 0 48
+QUERY student_SIIU
+QUERY student_SIIU
+UPDATE student_EZYC 6 45
+UPDATE student_EZYC 7 83
+UPDATE student_QV 8 61
+UPDATE student_EGKU 0 64
+UPDATE student_BRKEM 3 12
+QUERY student_IVQ
+QUERY student_VCPV
+UPDATE student_BRKEM 1 43
+QUERY student_TLRLPY
+UPDATE student_FSMKW 6 32
+QUERY student_OFJLP
+QUERY student_FOXZP
+QUERY student_QV
+QUERY student_NVSN
+UPDATE student_GMFFN 2 2
+UPDATE student_EGKU 1 7
+QUERY student_SPOKPZE
+UPDATE student_EGKU 2 98
+ADD student_OFJLP F 5 3 96 12 77 0 69 62 87 44
+QUERY student_NLEID
+UPDATE student_USD 2 42
+QUERY student_USD
+QUERY student_YWMX
+UPDATE student_SPOKPZE 4 74
+UPDATE student_ZBE 1 89
+QUERY student_QXXZ
+UPDATE student_ZZCSFXK 2 18
+QUERY student_FSMKW
+QUERY student_NVSN
+QUERY student_SIIU
+UPDATE student_USD 5 33
+UPDATE student_EK 4 90
+QUERY student_TLRLPY
+UPDATE student_PVDB 1 70
+QUERY student_IVQ
+ADD student_RZ F 1 6 82 24 100 22 39 41 21 49
+UPDATE student_FSMKW 5 76
+UPDATE student_LP 4 97
+QUERY student_NVSN
+QUERY student_BRKEM
+QUERY student_ATUKUK
+UPDATE student_RNQK 6 46
+UPDATE student_ZBE 5 35
+UPDATE student_MNECASL 8 69
+QUERY student_MNECASL
+QUERY student_MK
+QUERY student_LP
+QUERY student_ZBE
+UPDATE student_PVDB 2 32
+QUERY student_OFJLP
+QUERY student_SIIU
+QUERY student_MNECASL
+UPDATE student_NVSN 0 42
+QUERY student_ZBE
+ADD student_OFJLP M 11 59 53 65 90 8 80 85 53 77
+QUERY student_RZ
+QUERY student_MK
+UPDATE student_QV 4 56
+ADD student_MK F 11 24 0 95 13 76 29 39 34 3
+QUERY student_RNQK
+UPDATE student_TLRLPY 7 48
+UPDATE student_QV 4 39
+UPDATE student_EGKU 7 65
+UPDATE student_EGKU 1 55
+QUERY student_SIIU
+UPDATE student_MK 1 48
+QUERY student_SPOKPZE
+QUERY student_BRKEM
+UPDATE student_ZBE 8 77
+UPDATE student_AJZV 0 57
+QUERY student_MF
+QUERY student_MF
+UPDATE student_ATUKUK 7 12
+QUERY student_TLRLPY
+UPDATE student_NVSN 0 98
+ADD student_MK M 18 24 91 84 1 16 20 93 8 23
+UPDATE student_TLRLPY 1 49
+QUERY student_MK
+QUERY student_BRKEM
+UPDATE student_FOXZP 5 37
+UPDATE student_MNECASL 1 30
+QUERY student_RNQK
+UPDATE student_USD 7 55
+QUERY student_NVSN
+QUERY student_SIIU
+QUERY student_BRKEM
+UPDATE student_ATUKUK 3 60
+UPDATE student_EGKU 2 42
+QUERY student_NDFB
+UPDATE student_ICKVIJN 2 98
+UPDATE student_EGKU 6 61
+UPDATE student_NVSN 3 78
+QUERY student_IVQ
+UPDATE student_LP 7 27
+UPDATE student_QV 7 31
+QUERY student_LP
+UPDATE student_NVSN 4 89
+UPDATE student_LP 3 45
+UPDATE student_IVFCTA 0 91
+QUERY student_BRKEM
+UPDATE student_PVDB 8 73
+QUERY student_IRBUX
+QUERY student_MK
+UPDATE student_QV 1 48
+QUERY student_SIIU
+UPDATE student_EZYC 5 3
+QUERY student_IVQ
+QUERY student_NVSN
+UPDATE student_NVSN 1 48
+UPDATE student_EGKU 4 58
+UPDATE student_MK 7 32
+QUERY student_PWKOGV
+QUERY student_MF
+UPDATE student_ZBE 3 43
+UPDATE student_FOXZP 6 18
+QUERY student_LP
+QUERY student_SIIU
+UPDATE student_MNECASL 3 88
+UPDATE student_OFJLP 4 72
+UPDATE student_MF 0 17
+UPDATE student_QV 3 1
+UPDATE student_DPVHDGL 4 57
+QUERY student_GPANQAD
+UPDATE student_NVSN 1 52
+QUERY student_IJ
+UPDATE student_IVFCTA 6 34
+UPDATE student_GMFFN 2 25
+QUERY student_PSUIQDD
+UPDATE student_QV 7 87
+QUERY student_JSEA
+UPDATE student_IVFCTA 0 39
+QUERY student_EGKU
+UPDATE student_MK 3 92
+QUERY student_EGKU
+UPDATE student_IVQ 8 95
+QUERY student_QV
+UPDATE student_OFJLP 5 83
+QUERY student_MNECASL
+UPDATE student_MF 2 14
+UPDATE student_IVFCTA 3 26
+UPDATE student_USD 2 21
+QUERY student_FSMKW
+UPDATE student_AM 4 45
+QUERY student_PVDB
+QUERY student_FOXZP
+UPDATE student_TLRLPY 3 3
+UPDATE student_USD 2 59
+QUERY student_OFJLP
+UPDATE student_IVFCTA 4 76
+UPDATE student_EZYC 2 90
+QUERY student_ATUKUK
+UPDATE student_FOXZP 0 14
+UPDATE student_TLRLPY 3 49
+QUERY student_ATUKUK
+UPDATE student_SIIU 5 37
+QUERY student_BRKEM
+QUERY student_PVDB
+QUERY student_MNECASL
+UPDATE student_MNECASL 5 58
+QUERY student_SIIU
+QUERY student_IVFCTA
+UPDATE student_GMFFN 1 78
+UPDATE student_TLRLPY 8 79
+UPDATE student_PVDB 7 100
+QUERY student_GMFFN
+UPDATE student_IVQ 1 4
+QUERY student_ATUKUK
+QUERY student_MNECASL
+ADD student_ATUKUK F 1 26 66 9 37 34 75 86 35 96
+UPDATE student_ATUKUK 1 29
+QUERY student_MF
+UPDATE student_NVSN 4 75
+UPDATE student_TLRLPY 6 70
+UPDATE student_USD 7 83
+UPDATE student_SPOKPZE 8 1
+QUERY student_QT
+UPDATE student_IXM 6 45
+UPDATE student_EZYC 8 11
+QUERY student_ZBE
+QUERY student_FOXZP
+UPDATE student_ASSBR 5 34
+UPDATE student_ZBE 4 29
+UPDATE student_FOXZP 3 6
+UPDATE student_PVDB 6 30
+UPDATE student_USD 8 46
+UPDATE student_SIIU 0 40
+UPDATE student_NVSN 1 64
+UPDATE student_SIIU 5 11
+QUERY student_LP
+UPDATE student_USD 2 35
+QUERY student_FSMKW
+UPDATE student_SIIU 8 39
+UPDATE student_LP 5 39
+ADD student_IVQ F 4 74 54 81 84 73 2 25 63 90
+UPDATE student_EGKU 7 17
+UPDATE student_SPOKPZE 7 51
+UPDATE student_OFJLP 0 42
+QUERY student_IVQ
+UPDATE student_RNQK 0 15
+QUERY student_SIIU
+QUERY student_FOXZP
+UPDATE student_IVQ 2 66
+UPDATE student_GMFFN 5 3
+QUERY student_FSMKW
+UPDATE student_RZ 6 2
+UPDATE student_SIIU 4 95
+QUERY student_IVQ
+QUERY student_RNQK
+UPDATE student_SIIU 0 83
+UPDATE student_TLRLPY 8 65
+UPDATE student_LP 3 96
+ADD student_GHTE F 5 49 4 85 65 99 7 1 6 37
+ADD student_MF F 9 76 83 3 80 77 59 21 5 75
+UPDATE student_BRKEM 8 32
+UPDATE student_QV 6 54
+UPDATE student_ATUKUK 7 60
+QUERY student_QV
+UPDATE student_IVFCTA 3 87
+QUERY student_NVSN
+QUERY student_MK
+UPDATE student_SIIU 6 96
+QUERY student_IVQ
+QUERY student_IVFCTA
+UPDATE student_EZYC 7 52
+QUERY student_UZLNRIX
+QUERY student_QV
+QUERY student_IVQ
+QUERY student_LP
+UPDATE student_OFJLP 6 17
+QUERY student_MF
+UPDATE student_MNECASL 2 44
+UPDATE student_QV 0 90
+QUERY student_FSMKW
+QUERY student_MNECASL
+QUERY student_USD
+UPDATE student_BRKEM 1 66
+UPDATE student_RZ 0 32
+QUERY student_RZ
+QUERY student_IVQ
+UPDATE student_LDHEKUL 3 5
+UPDATE student_USD 0 53
+QUERY student_FSMKW
+UPDATE student_OW 8 60
+UPDATE student_ZBE 2 68
+QUERY student_ATUKUK
+UPDATE student_MF 7 91
+UPDATE student_LP 0 83
+QUERY student_BRKEM
+FLUSH
+PRINTLIST
+END

@@ -1,0 +1,100 @@
+ADD student_LP M 8 17 74 94 57 88 31 55 18 28
+ADD student_USD F 5 90 55 6 11 18 88 92 90 82
+ADD student_GMFFN F 14 40 71 13 38 70 36 1 7 78
+ADD student_FOXZP F 2 79 42 77 91 38 13 0 64 95
+ADD student_MK F 19 17 74 94 57 88 31 55 18 28
+ADD student_QV F 15 32 98 65 59 85 7 28 73 85
+ADD student_EZYC F 7 14 4 36 67 22 71 66 69 82
+ADD student_FSMKW M 14 74 30 70 91 65 73 82 81 18
+ADD student_RNQK F 11 81 79 80 19 41 40 28 32 5
+ADD student_MNECASL F 5 8 31 36 9 73 3 95 73 0
+ADD student_ZBE F 11 38 10 83 55 44 19 45 82 15
+ADD student_EGKU M 6 34 39 33 74 62 32 18 58 49
+START
+UPDATE student_KEMYHFG 4 7
+UPDATE student_MNECASL 4 27
+QUERY student_MK
+ADD student_EZYC F 9 73 4 82 11 34 97 45 79 8
+UPDATE student_MK 7 45
+QUERY student_USD
+QUERY student_ZBE
+QUERY student_EZYC
+UPDATE student_USD 3 65
+QUERY student_MK
+QUERY student_LP
+QUERY student_EZYC
+QUERY student_RNQK
+UPDATE student_EZYC 8 87
+QUERY student_MNECASL
+QUERY student_LP
+QUERY student_QV
+QUERY student_EZYC
+QUERY student_EGKU
+QUERY student_USD
+UPDATE student_EZYC 4 38
+UPDATE student_QV 2 97
+UPDATE student_EZYC 1 69
+QUERY student_BLUYZ
+QUERY student_GMFFN
+UPDATE student_JRXZO 2 40
+UPDATE student_LP 7 56
+UPDATE student_LP 5 93
+QUERY student_OT
+QUERY student_USD
+QUERY student_FOXZP
+FLUSH
+QUERY student_MNECASL
+UPDATE student_MK 4 87
+UPDATE student_QV 1 75
+UPDATE student_LP 0 50
+QUERY student_ZBE
+QUERY student_EZYC
+UPDATE student_MMH 1 93
+QUERY student_ZBE
+UPDATE student_USD 4 11
+UPDATE student_GMFFN 1 56
+UPDATE student_GMFFN 4 50
+UPDATE student_FSMKW 5 94
+UPDATE student_FOXZP 1 50
+QUERY student_GMFFN
+UPDATE student_MXDQWSJ 0 55
+UPDATE student_EGKU 7 6
+UPDATE student_EZYC 8 41
+QUERY student_RNQK
+QUERY student_ZAAYDQL
+QUERY student_ZBE
+QUERY student_USD
+UPDATE student_GMFFN 7 19
+UPDATE student_MNECASL 4 80
+UPDATE student_NSIOPEB 5 69
+UPDATE student_ZBE 8 82
+UPDATE student_EZYC 8 46
+UPDATE student_KGEJPZT 7 32
+UPDATE student_FOXZP 8 11
+UPDATE student_RNQK 2 83
+UPDATE student_ZBE 4 40
+QUERY student_USD
+UPDATE student_FOXZP 8 72
+UPDATE student_FSMKW 5 98
+QUERY student_GMFFN
+UPDATE student_GMFFN 2 10
+QUERY student_MK
+UPDATE student_FSMKW 8 47
+UPDATE student_FOXZP 8 54
+UPDATE student_TNMAA 2 58
+QUERY student_EZYC
+QUERY student_EZYC
+QUERY student_FSMKW
+QUERY student_FOXZP
+QUERY student_QV
+QUERY student_EGKU
+UPDATE student_GMFFN 2 2
+UPDATE student_EGKU 1 7
+QUERY student_RNQK
+UPDATE student_EGKU 2 98
+ADD student_FSMKW F 5 3 96 12 77 0 69 62 87 44
+QUERY student_NLEID
+UPDATE student_USD 2 42
+FLUSH
+PRINTLIST
+END

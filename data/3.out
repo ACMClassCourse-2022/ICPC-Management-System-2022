@@ -1,0 +1,663 @@
+[Info]Add successfully.
+[Info]Add successfully.
+[Info]Add successfully.
+[Info]Add successfully.
+[Info]Add successfully.
+[Info]Add successfully.
+[Info]Add successfully.
+[Info]Add successfully.
+[Info]Add successfully.
+[Info]Add successfully.
+[Info]Add successfully.
+[Info]Add successfully.
+[Info]Add successfully.
+[Info]Add successfully.
+[Info]Add successfully.
+[Info]Competition starts.
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query ranking.
+Team_GLBKYJB NOW AT RANKING 5
+[Info]Complete query ranking.
+Team_HKALJ NOW AT RANKING 6
+[Info]Complete query submission.
+Cannot find any submission.
+[Error]Start failed: competition has started.
+[Info]Complete query submission.
+Cannot find any submission.
+[Error]Scroll failed: scoreboard has not been frozen.
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query ranking.
+Team_GDK NOW AT RANKING 4
+[Info]Complete query ranking.
+Team_PXDDLRZ NOW AT RANKING 12
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query ranking.
+Team_HUITQXTU NOW AT RANKING 7
+[Info]Complete query submission.
+Cannot find any submission.
+[Error]Scroll failed: scoreboard has not been frozen.
+[Info]Complete query ranking.
+Team_ECNDKPK NOW AT RANKING 3
+[Info]Complete query ranking.
+Team_LFOZD NOW AT RANKING 8
+[Info]Freeze scoreboard.
+[Error]Query submission failed: cannot find the team.
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_HKALJ NOW AT RANKING 6
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_CHEJHQPT NOW AT RANKING 1
+[Info]Complete query submission.
+Team_PXDDLRZ M Time_Limit_Exceed 17
+[Info]Complete query submission.
+Team_PXDDLRZ B Runtime_Error 38
+[Error]Query submission failed: cannot find the team.
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_OLVSUEI NOW AT RANKING 11
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_CHEJHQPT NOW AT RANKING 1
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_YCXY NOW AT RANKING 13
+[Info]Complete query submission.
+Cannot find any submission.
+[Error]Freeze failed: scoreboard has been frozen.
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_MVYSUY NOW AT RANKING 9
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query submission.
+Team_CHEJHQPT G Wrong_Answer 9
+[Info]Complete query submission.
+Cannot find any submission.
+[Error]Query submission failed: cannot find the team.
+[Info]Complete query submission.
+Team_DRAZI K Runtime_Error 16
+[Info]Complete query submission.
+Team_LFOZD A Runtime_Error 36
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_MYAATOXP NOW AT RANKING 10
+[Info]Complete query submission.
+Cannot find any submission.
+[Error]Freeze failed: scoreboard has been frozen.
+[Error]Query ranking failed: cannot find the team.
+[Info]Flush scoreboard.
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_DRAZI NOW AT RANKING 4
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_GDK NOW AT RANKING 13
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_OLVSUEI NOW AT RANKING 5
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_MVYSUY NOW AT RANKING 15
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query submission.
+Cannot find any submission.
+[Error]Add failed: competition has started.
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_CHEJHQPT NOW AT RANKING 9
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_GLBKYJB NOW AT RANKING 14
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query submission.
+Cannot find any submission.
+[Error]Freeze failed: scoreboard has been frozen.
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_OLVSUEI NOW AT RANKING 5
+[Info]Scroll scoreboard.
+Team_MYAATOXP 1 3 38 0/4 . . . + + 0/2 0/2 -1/1 + -1/1 0/2 0/1
+Team_ECNDKPK 2 3 44 + 0/2 -1/1 . -1/2 +1 0/1 . + 0/1 -1 -1 0/2
+Team_ZTUZJ 3 2 10 0/2 . -1 -1 + 0/1 . + . 0/1 0/1 -1/1 0/1
+Team_DRAZI 4 1 7 0/2 . . . . . + . 0/1 0/1 -1 . 0/1
+Team_OLVSUEI 5 1 7 0/1 . . . . 0/1 + . 0/3 . -1 0/2 0/1
+Team_YDZAXTZ 6 1 10 0/1 -1 -1 . . -1/1 . . 0/1 . 0/1 . +
+Team_LFOZD 7 1 12 -1/1 -1/1 . . 0/1 0/1 0/1 0/1 0/1 . . . +
+Team_HKALJ 8 1 14 . . . -1 0/1 . . 0/2 0/1 -1/1 + 0/5 .
+Team_CHEJHQPT 9 1 17 . 0/1 -1 -1 0/2 . -1 . + 0/2 . -1/1 .
+Team_HUITQXTU 10 1 25 . -1/2 -1/1 0/1 -1 . + 0/2 . 0/2 0/1 0/1 .
+Team_YCXY 11 1 26 0/1 0/1 + . -2/1 -2 -1/2 0/3 . . 0/1 . -1/2
+Team_PXDDLRZ 12 1 38 . 0/1 . 0/1 -1 -1/1 . -2/1 . . -1 . +1
+Team_GDK 13 0 0 -2/2 0/1 -1 -1/1 . -2 . 0/1 . -1/2 . -2/1 0/1
+Team_GLBKYJB 14 0 0 0/1 0/1 -1/1 -1 . . -1 0/2 . 0/1 . . 0/2
+Team_MVYSUY 15 0 0 -1 0/1 . . 0/2 0/1 -2/1 0/2 . 0/1 . 0/1 0/2
+Team_MVYSUY Team_GDK 1 59
+Team_GLBKYJB Team_MVYSUY 1 42
+Team_MVYSUY Team_DRAZI 2 94
+Team_YCXY Team_MVYSUY 2 85
+Team_HUITQXTU Team_YCXY 2 71
+Team_CHEJHQPT Team_HUITQXTU 2 49
+Team_HKALJ Team_MVYSUY 2 87
+Team_LFOZD Team_HUITQXTU 2 69
+Team_DRAZI Team_YCXY 2 80
+Team_MVYSUY Team_ZTUZJ 3 123
+Team_HKALJ Team_ZTUZJ 3 145
+Team_YCXY Team_ZTUZJ 3 165
+Team_DRAZI Team_YCXY 3 154
+Team_HUITQXTU Team_HKALJ 3 124
+Team_CHEJHQPT Team_MVYSUY 3 107
+Team_ZTUZJ Team_CHEJHQPT 3 84
+Team_YCXY Team_MYAATOXP 4 222
+Team_HKALJ Team_YCXY 4 214
+Team_ZTUZJ Team_HKALJ 4 144
+Team_ECNDKPK Team_ZTUZJ 4 122
+Team_MYAATOXP Team_ECNDKPK 4 83
+Team_MYAATOXP 1 6 193 -4 . . . + + + + -2 + +1 -2 -1
+Team_ECNDKPK 2 4 122 + +1 -2 . -3 +1 -1 . + -1 -1 -1 -2
+Team_ZTUZJ 3 4 144 -2 . -1 -1 + -1 . + . -1 -1 +1 +
+Team_HKALJ 4 4 214 . . . -1 -1 . . +1 + -2 + +1 .
+Team_YCXY 5 4 222 + -1 + . +2 -2 -3 -3 . . -1 . +1
+Team_CHEJHQPT 6 3 107 . -1 -1 -1 + . -1 . + + . -2 .
+Team_MVYSUY 7 3 123 -1 -1 . . + -1 -3 + . -1 . + -2
+Team_HUITQXTU 8 3 124 . -3 -2 + -1 . + -2 . -2 -1 + .
+Team_DRAZI 9 3 154 -2 . . . . . + . + + -1 . -1
+Team_LFOZD 10 2 69 -2 -2 . . -1 -1 + -1 -1 . . . +
+Team_OLVSUEI 11 1 7 -1 . . . . -1 + . -3 . -1 -2 -1
+Team_YDZAXTZ 12 1 10 -1 -1 -1 . . -2 . . -1 . -1 . +
+Team_PXDDLRZ 13 1 38 . -1 . -1 -1 -2 . -3 . . -1 . +1
+Team_GLBKYJB 14 1 42 + -1 -2 -1 . . -1 -2 . -1 . . -2
+Team_GDK 15 1 85 +2 -1 -1 -2 . -2 . -1 . -3 . -3 -1
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query submission.
+Team_ZTUZJ M Accepted 60
+[Error]Query ranking failed: cannot find the team.
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query ranking.
+Team_MYAATOXP NOW AT RANKING 1
+[Info]Complete query ranking.
+Team_GLBKYJB NOW AT RANKING 14
+[Info]Complete query submission.
+Team_MYAATOXP A Runtime_Error 76
+[Info]Complete query ranking.
+Team_DRAZI NOW AT RANKING 9
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query ranking.
+Team_HKALJ NOW AT RANKING 4
+[Error]Query ranking failed: cannot find the team.
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query ranking.
+Team_HKALJ NOW AT RANKING 4
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query submission.
+Cannot find any submission.
+[Error]Query ranking failed: cannot find the team.
+[Info]Complete query ranking.
+Team_HUITQXTU NOW AT RANKING 8
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query ranking.
+Team_HUITQXTU NOW AT RANKING 8
+[Error]Scroll failed: scoreboard has not been frozen.
+[Info]Complete query submission.
+Team_HUITQXTU K Time_Limit_Exceed 77
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query ranking.
+Team_HUITQXTU NOW AT RANKING 8
+[Info]Complete query ranking.
+Team_DRAZI NOW AT RANKING 9
+[Info]Complete query ranking.
+Team_YDZAXTZ NOW AT RANKING 12
+[Info]Complete query ranking.
+Team_GDK NOW AT RANKING 15
+[Info]Complete query submission.
+Team_ZTUZJ M Accepted 60
+[Info]Complete query ranking.
+Team_PXDDLRZ NOW AT RANKING 13
+[Info]Complete query submission.
+Team_DRAZI M Wrong_Answer 35
+[Info]Complete query submission.
+Team_PXDDLRZ H Wrong_Answer 92
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Flush scoreboard.
+[Error]Add failed: competition has started.
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query submission.
+Team_PXDDLRZ K Time_Limit_Exceed 109
+[Info]Complete query submission.
+Team_CHEJHQPT J Time_Limit_Exceed 69
+[Info]Complete query submission.
+Team_MVYSUY H Wrong_Answer 71
+[Info]Complete query submission.
+Team_CHEJHQPT G Wrong_Answer 9
+[Info]Complete query submission.
+Team_LFOZD A Time_Limit_Exceed 117
+[Info]Complete query ranking.
+Team_GDK NOW AT RANKING 10
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query ranking.
+Team_YCXY NOW AT RANKING 4
+[Error]Query submission failed: cannot find the team.
+[Info]Complete query ranking.
+Team_DRAZI NOW AT RANKING 7
+[Info]Complete query submission.
+Team_CHEJHQPT G Runtime_Error 89
+[Info]Complete query ranking.
+Team_GDK NOW AT RANKING 10
+[Info]Complete query ranking.
+Team_DRAZI NOW AT RANKING 7
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query submission.
+Team_HKALJ I Accepted 58
+[Info]Complete query ranking.
+Team_HKALJ NOW AT RANKING 2
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Freeze scoreboard.
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query submission.
+Team_PXDDLRZ J Time_Limit_Exceed 105
+[Info]Complete query submission.
+Team_PXDDLRZ K Accepted 106
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_MYAATOXP NOW AT RANKING 1
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_HUITQXTU NOW AT RANKING 8
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_OLVSUEI NOW AT RANKING 13
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_MVYSUY NOW AT RANKING 6
+[Error]Freeze failed: scoreboard has been frozen.
+[Info]Scroll scoreboard.
+Team_MYAATOXP 1 8 457 -6 . . . + + + + +2 + +1 -3 +1
+Team_HKALJ 2 6 432 -1 -2/1 + -1 -3 . +1 +1 + -3/1 + +1 -1
+Team_ZTUZJ 3 5 264 -2/1 . -1 -2/1 + -1/1 -1 + + -1/1 -2/1 +1 +
+Team_YCXY 4 5 344 + +1 + . +2 -2 -5 -3 . . -2 -3 +1
+Team_MVYSUY 5 5 414 -3 -1 . . + -1/1 +3 + . +1 -1 + -2
+Team_GLBKYJB 6 5 658 + -3 -2/1 -1/1 +1 -1 -1 +3 . -1 . + +2
+Team_ECNDKPK 7 4 122 + +1 -5 -1 -3 +1 -1 -1/1 + -2 -1 -1/1 -2
+Team_DRAZI 8 4 233 -3 -1 + . 0/1 . + . + + -1/1 0/1 -1
+Team_HUITQXTU 9 4 263 . -3 -4 + -2/2 -2 + -3 0/1 -2 +1 + 0/1
+Team_LFOZD 10 4 282 -3 +2 + -1 -2 -2/1 + -3 -1 . . -1 +
+Team_GDK 11 4 405 +2 -1 -1 -2 . -3 -1 -1 + -4 + -3 +1
+Team_PXDDLRZ 12 4 414 -1 -1 . +1 -2 -2/1 -1/1 -4 . -1 +2 + +1
+Team_CHEJHQPT 13 3 107 . -2/1 -1 -1 + 0/1 -2 0/1 + + . -3 -1/1
+Team_YDZAXTZ 14 3 299 -1 +2 -1 -1 + -3 -1 . -2 . -1 . +
+Team_OLVSUEI 15 2 100 -1 -1 + . -1 -1 + 0/2 -5 -1 -1 -2 -1
+Team_OLVSUEI Team_YDZAXTZ 3 237
+Team_CHEJHQPT Team_GDK 4 286
+Team_HUITQXTU Team_GLBKYJB 5 471
+Team_DRAZI Team_MVYSUY 5 375
+Team_GLBKYJB Team_ZTUZJ 6 815
+Team_ZTUZJ Team_GLBKYJB 6 455
+Team_MYAATOXP 1 8 457 -6 . . . + + + + +2 + +1 -3 +1
+Team_HKALJ 2 7 638 -1 -3 + -1 -3 . +1 +1 + +3 + +1 -1
+Team_ZTUZJ 3 6 455 -3 . -1 +2 + -2 -1 + + -2 -3 +1 +
+Team_GLBKYJB 4 6 815 + -3 -3 +1 +1 -1 -1 +3 . -1 . + +2
+Team_YCXY 5 5 344 + +1 + . +2 -2 -5 -3 . . -2 -3 +1
+Team_DRAZI 6 5 375 -3 -1 + . + . + . + + -2 -1 -1
+Team_MVYSUY 7 5 414 -3 -1 . . + -2 +3 + . +1 -1 + -2
+Team_HUITQXTU 8 5 471 . -3 -4 + +3 -2 + -3 -1 -2 +1 + -1
+Team_ECNDKPK 9 4 122 + +1 -5 -1 -3 +1 -1 -2 + -2 -1 -2 -2
+Team_LFOZD 10 4 282 -3 +2 + -1 -2 -3 + -3 -1 . . -1 +
+Team_CHEJHQPT 11 4 286 . +2 -1 -1 + -1 -2 -1 + + . -3 -2
+Team_GDK 12 4 405 +2 -1 -1 -2 . -3 -1 -1 + -4 + -3 +1
+Team_PXDDLRZ 13 4 414 -1 -1 . +1 -2 -3 -2 -4 . -1 +2 + +1
+Team_OLVSUEI 14 3 237 -1 -1 + . -1 -1 + + -5 -1 -1 -2 -1
+Team_YDZAXTZ 15 3 299 -1 +2 -1 -1 + -3 -1 . -2 . -1 . +
+[Error]Query ranking failed: cannot find the team.
+[Info]Complete query ranking.
+Team_YDZAXTZ NOW AT RANKING 15
+[Info]Complete query ranking.
+Team_ECNDKPK NOW AT RANKING 9
+[Info]Complete query ranking.
+Team_DRAZI NOW AT RANKING 6
+[Info]Complete query ranking.
+Team_ECNDKPK NOW AT RANKING 9
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query ranking.
+Team_HUITQXTU NOW AT RANKING 8
+[Error]Start failed: competition has started.
+[Info]Complete query ranking.
+Team_ZTUZJ NOW AT RANKING 3
+[Info]Complete query submission.
+Team_HUITQXTU E Runtime_Error 147
+[Error]Query ranking failed: cannot find the team.
+[Info]Complete query ranking.
+Team_MYAATOXP NOW AT RANKING 1
+[Info]Complete query ranking.
+Team_MYAATOXP NOW AT RANKING 1
+[Info]Flush scoreboard.
+[Info]Complete query submission.
+Team_MYAATOXP I Wrong_Answer 128
+[Info]Complete query ranking.
+Team_DRAZI NOW AT RANKING 7
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query ranking.
+Team_GDK NOW AT RANKING 14
+[Info]Complete query submission.
+Team_GDK A Time_Limit_Exceed 105
+[Info]Complete query ranking.
+Team_DRAZI NOW AT RANKING 7
+[Info]Complete query submission.
+Team_MVYSUY E Wrong_Answer 144
+[Info]Complete query submission.
+Team_OLVSUEI K Wrong_Answer 18
+[Info]Complete query ranking.
+Team_HUITQXTU NOW AT RANKING 6
+[Info]Complete query ranking.
+Team_YCXY NOW AT RANKING 5
+[Info]Complete query ranking.
+Team_DRAZI NOW AT RANKING 7
+[Info]Complete query submission.
+Team_HKALJ J Accepted 146
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query ranking.
+Team_OLVSUEI NOW AT RANKING 10
+[Info]Complete query submission.
+Team_HUITQXTU G Time_Limit_Exceed 155
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query ranking.
+Team_MVYSUY NOW AT RANKING 8
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query submission.
+Team_YDZAXTZ K Runtime_Error 51
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query ranking.
+Team_YCXY NOW AT RANKING 5
+[Info]Complete query ranking.
+Team_CHEJHQPT NOW AT RANKING 9
+[Error]Query submission failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Info]Complete query ranking.
+Team_GDK NOW AT RANKING 14
+[Info]Complete query ranking.
+Team_PXDDLRZ NOW AT RANKING 11
+[Error]Query ranking failed: cannot find the team.
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query ranking.
+Team_DRAZI NOW AT RANKING 7
+[Info]Complete query submission.
+Team_CHEJHQPT M Wrong_Answer 172
+[Info]Complete query ranking.
+Team_CHEJHQPT NOW AT RANKING 9
+[Info]Complete query ranking.
+Team_OLVSUEI NOW AT RANKING 10
+[Info]Freeze scoreboard.
+[Info]Complete query submission.
+Team_MYAATOXP L Wrong_Answer 199
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_YDZAXTZ NOW AT RANKING 15
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_DRAZI NOW AT RANKING 7
+[Info]Complete query submission.
+Team_ECNDKPK J Wrong_Answer 135
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_GDK NOW AT RANKING 14
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_ECNDKPK NOW AT RANKING 12
+[Info]Scroll scoreboard.
+Team_OLVSUEI 1 9 1495 +2 +1 + + -3/1 -1 + + -6 +1 +1 -2 +3
+Team_MYAATOXP 2 8 457 -7 -2 . -1 + + + + +2 + +1 -5 +1
+Team_ZTUZJ 3 8 902 -3 +2 +1 +2 + -4 -2 + + -3 -3 +1 +
+Team_HUITQXTU 4 8 1216 . -4 +4 + +3 -2 + +3 -2 +3 +1 + -1
+Team_GLBKYJB 5 8 1220 + -3 -5 +1 +1 -1 -1 +3 +1 +1 -1 + +2
+Team_HKALJ 6 7 638 -1 -3 + -1 -3 0/1 +1 +1 + +3 + +1 -3
+Team_PXDDLRZ 7 7 1129 -2 -1 0/1 +1 +3 -3 +2 -5 . +1 +2 + +1
+Team_YCXY 8 6 506 + +1 + . +2 -4 -5 -3 -1 + -2 -4 +1
+Team_ECNDKPK 9 6 590 + +1 -5 +1 +3 +1 -2 -2 + -2 -5 -2 -2
+Team_DRAZI 10 6 608 -6 -2 + . + 0/1 + . + + -3 +2 -1
+Team_MVYSUY 11 6 665 -4 -1 -1 . + -2 +3 + -2 +1 -2 + +3
+Team_CHEJHQPT 12 6 718 -1 +2 -1 -3 + +2 -2 +1 + + . -3 -4/1
+Team_LFOZD 13 6 732 -3 +2 + -1 -3 -4 + -4 -1 +1 -1/1 +1 +
+Team_GDK 14 6 939 +2 -1 -1 +2 . -4 -1 -2 + -5 + +4 +1
+Team_YDZAXTZ 15 5 711 -1/1 +2 -1 -1 + -3 -1 -3 +2 . -1 +1 +
+Team_OLVSUEI 1 10 1774 +2 +1 + + +3 -1 + + -6 +1 +1 -2 +3
+Team_MYAATOXP 2 8 457 -7 -2 . -1 + + + + +2 + +1 -5 +1
+Team_ZTUZJ 3 8 902 -3 +2 +1 +2 + -4 -2 + + -3 -3 +1 +
+Team_HUITQXTU 4 8 1216 . -4 +4 + +3 -2 + +3 -2 +3 +1 + -1
+Team_GLBKYJB 5 8 1220 + -3 -5 +1 +1 -1 -1 +3 +1 +1 -1 + +2
+Team_HKALJ 6 7 638 -1 -3 + -1 -3 -1 +1 +1 + +3 + +1 -3
+Team_PXDDLRZ 7 7 1129 -2 -1 -1 +1 +3 -3 +2 -5 . +1 +2 + +1
+Team_YCXY 8 6 506 + +1 + . +2 -4 -5 -3 -1 + -2 -4 +1
+Team_ECNDKPK 9 6 590 + +1 -5 +1 +3 +1 -2 -2 + -2 -5 -2 -2
+Team_DRAZI 10 6 608 -6 -2 + . + -1 + . + + -3 +2 -1
+Team_MVYSUY 11 6 665 -4 -1 -1 . + -2 +3 + -2 +1 -2 + +3
+Team_CHEJHQPT 12 6 718 -1 +2 -1 -3 + +2 -2 +1 + + . -3 -5
+Team_LFOZD 13 6 732 -3 +2 + -1 -3 -4 + -4 -1 +1 -2 +1 +
+Team_GDK 14 6 939 +2 -1 -1 +2 . -4 -1 -2 + -5 + +4 +1
+Team_YDZAXTZ 15 5 711 -2 +2 -1 -1 + -3 -1 -3 +2 . -1 +1 +
+[Info]Complete query ranking.
+Team_GLBKYJB NOW AT RANKING 5
+[Info]Complete query submission.
+Team_ZTUZJ K Wrong_Answer 139
+[Info]Complete query submission.
+Team_PXDDLRZ G Accepted 215
+[Info]Complete query ranking.
+Team_ZTUZJ NOW AT RANKING 3
+[Info]Complete query submission.
+Team_DRAZI K Wrong_Answer 190
+[Info]Complete query ranking.
+Team_LFOZD NOW AT RANKING 13
+[Info]Complete query ranking.
+Team_MVYSUY NOW AT RANKING 11
+[Info]Complete query ranking.
+Team_OLVSUEI NOW AT RANKING 1
+[Info]Complete query submission.
+Team_DRAZI K Runtime_Error 16
+[Error]Scroll failed: scoreboard has not been frozen.
+[Info]Complete query ranking.
+Team_OLVSUEI NOW AT RANKING 1
+[Error]Start failed: competition has started.
+[Error]Scroll failed: scoreboard has not been frozen.
+[Info]Flush scoreboard.
+[Info]Complete query ranking.
+Team_OLVSUEI NOW AT RANKING 1
+[Info]Complete query submission.
+Team_PXDDLRZ G Accepted 215
+[Info]Complete query submission.
+Team_CHEJHQPT J Accepted 105
+[Info]Complete query submission.
+Team_ECNDKPK D Accepted 208
+[Info]Complete query ranking.
+Team_MYAATOXP NOW AT RANKING 2
+[Info]Complete query ranking.
+Team_HKALJ NOW AT RANKING 6
+[Info]Complete query ranking.
+Team_GDK NOW AT RANKING 8
+[Info]Complete query ranking.
+Team_HKALJ NOW AT RANKING 6
+[Info]Complete query submission.
+Team_ECNDKPK I Time_Limit_Exceed 232
+[Info]Complete query ranking.
+Team_MYAATOXP NOW AT RANKING 2
+[Info]Complete query ranking.
+Team_GDK NOW AT RANKING 8
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query submission.
+Team_ECNDKPK J Accepted 252
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query submission.
+Team_GLBKYJB E Time_Limit_Exceed 220
+[Info]Complete query submission.
+Team_HKALJ E Wrong_Answer 132
+[Info]Complete query submission.
+Team_LFOZD M Time_Limit_Exceed 176
+[Info]Complete query ranking.
+Team_HKALJ NOW AT RANKING 6
+[Info]Complete query ranking.
+Team_LFOZD NOW AT RANKING 14
+[Info]Freeze scoreboard.
+[Error]Query ranking failed: cannot find the team.
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_PXDDLRZ NOW AT RANKING 7
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_PXDDLRZ NOW AT RANKING 7
+[Info]Complete query submission.
+Team_HKALJ K Runtime_Error 253
+[Info]Complete query submission.
+Team_CHEJHQPT K Accepted 248
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_YCXY NOW AT RANKING 9
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_YCXY NOW AT RANKING 9
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_YCXY NOW AT RANKING 9
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query submission.
+Team_GDK M Accepted 96
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_GLBKYJB NOW AT RANKING 5
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_HUITQXTU NOW AT RANKING 4
+[Error]Freeze failed: scoreboard has been frozen.
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_PXDDLRZ NOW AT RANKING 7
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_HUITQXTU NOW AT RANKING 4
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_MVYSUY NOW AT RANKING 12
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_GLBKYJB NOW AT RANKING 5
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_PXDDLRZ NOW AT RANKING 7
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_CHEJHQPT NOW AT RANKING 13
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_LFOZD NOW AT RANKING 14
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Flush scoreboard.
+[Info]Scroll scoreboard.
+Team_MYAATOXP 1 11 1470 +7 +2 -1 -2 + + + + +2 + +1 +5 +1
+Team_OLVSUEI 2 10 1774 +2 +1 + + +3 -1/3 + + -6/1 +1 +1 -2 +3
+Team_ZTUZJ 3 8 902 -3 +2 +1 +2 + -7 -2 + + -3 -4 +1 +
+Team_HKALJ 4 8 920 -1 -3/1 + +1 -3/1 -2/1 +1 +1 + +3 + +1 -3/2
+Team_HUITQXTU 5 8 1216 0/2 -4/1 +4 + +3 -3/1 + +3 -2/1 +3 +1 + -1/1
+Team_GLBKYJB 6 8 1220 + -3/1 -6/1 +1 +1 -1/1 -1 +3 +1 +1 -1 + +2
+Team_GDK 7 8 1485 +2 -3 -2/1 +2 0/1 -4 +1 +2 + -5 + +4 +1
+Team_ECNDKPK 8 7 882 + +1 -6 +1 +3 +1 -2 -2 + +2 -5 -2 -2
+Team_CHEJHQPT 9 7 966 -2 +2 -1/4 -3/1 + +2 -2 +1 + + + -3 -5/1
+Team_LFOZD 10 7 1040 -3 +2 + -3/1 +3 -4 + -4/1 -1 +1 -3 +1 +
+Team_PXDDLRZ 11 7 1129 -2/1 -1/1 -2 +1 +3 -4 +2 -5 -1 +1 +2 + +1
+Team_YCXY 12 6 506 + +1 + -1/1 +2 -4 -5/1 -3 -1 + -2 -5 +1
+Team_DRAZI 13 6 608 -7 -2 + . + -1 + . + + -3/1 +2 -1/1
+Team_MVYSUY 14 6 665 -7 -1 -1/1 -1 + -3 +3 + -2 +1 -2 + +3
+Team_YDZAXTZ 15 6 1021 +3 +2 -2 -1 + -3 -2 -3 +2 . -1/1 +1 +
+Team_YDZAXTZ Team_YCXY 7 1323
+Team_YCXY Team_ECNDKPK 7 823
+Team_PXDDLRZ Team_GDK 8 1457
+Team_GLBKYJB Team_ZTUZJ 9 1605
+Team_HUITQXTU Team_GLBKYJB 9 1522
+Team_HKALJ Team_HUITQXTU 9 1275
+Team_HKALJ Team_OLVSUEI 10 1615
+Team_MYAATOXP 1 11 1470 +7 +2 -1 -2 + + + + +2 + +1 +5 +1
+Team_HKALJ 2 10 1615 -1 -4 + +1 +3 -3 +1 +1 + +3 + +1 +3
+Team_OLVSUEI 3 10 1774 +2 +1 + + +3 -4 + + -7 +1 +1 -2 +3
+Team_HUITQXTU 4 9 1522 -2 -5 +4 + +3 -4 + +3 -3 +3 +1 + +1
+Team_GLBKYJB 5 9 1605 + -4 +6 +1 +1 -2 -1 +3 +1 +1 -1 + +2
+Team_ZTUZJ 6 8 902 -3 +2 +1 +2 + -7 -2 + + -3 -4 +1 +
+Team_PXDDLRZ 7 8 1457 +2 -2 -2 +1 +3 -4 +2 -5 -1 +1 +2 + +1
+Team_GDK 8 8 1485 +2 -3 -3 +2 -1 -4 +1 +2 + -5 + +4 +1
+Team_YCXY 9 7 823 + +1 + +1 +2 -4 -6 -3 -1 + -2 -5 +1
+Team_ECNDKPK 10 7 882 + +1 -6 +1 +3 +1 -2 -2 + +2 -5 -2 -2
+Team_CHEJHQPT 11 7 966 -2 +2 -5 -4 + +2 -2 +1 + + + -3 -6
+Team_LFOZD 12 7 1040 -3 +2 + -4 +3 -4 + -5 -1 +1 -3 +1 +
+Team_YDZAXTZ 13 7 1323 +3 +2 -2 -1 + -3 -2 -3 +2 . +1 +1 +
+Team_DRAZI 14 6 608 -7 -2 + . + -1 + . + + -4 +2 -2
+Team_MVYSUY 15 6 665 -7 -1 -2 -1 + -3 +3 + -2 +1 -2 + +3
+[Info]Competition ends.

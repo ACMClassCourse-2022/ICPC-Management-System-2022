@@ -1,0 +1,48 @@
+[Info]Add successfully.
+[Info]Add successfully.
+[Info]Add successfully.
+[Error]Add failed: duplicated team name.
+[Info]Competition starts.
+[Error]Add failed: competition has started.
+[Error]Start failed: competition has started.
+[Info]Complete query ranking.
+Team_sjtu NOW AT RANKING 2
+[Error]Query submission failed: cannot find the team.
+[Info]Complete query submission.
+Team_sjtu A Accepted 1
+[Info]Complete query ranking.
+Team_sjtu NOW AT RANKING 2
+[Info]Flush scoreboard.
+[Info]Complete query ranking.
+Team_pku NOW AT RANKING 3
+[Info]Complete query ranking.
+Team_thu NOW AT RANKING 2
+[Info]Complete query submission.
+Team_thu C Accepted 60
+[Info]Flush scoreboard.
+[Info]Complete query submission.
+Team_pku C Accepted 80
+[Info]Complete query submission.
+Team_pku A Accepted 10
+[Info]Complete query ranking.
+Team_thu NOW AT RANKING 1
+[Info]Freeze scoreboard.
+[Info]Complete query submission.
+Team_thu D Time_Limit_Exceed 200
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_sjtu NOW AT RANKING 2
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Scroll scoreboard.
+Team_thu 1 2 68 + -1/1 + -2/2
+Team_pku 2 2 110 + -1 +1 0/3
+Team_sjtu 3 2 116 + +2 . -1/1
+Team_sjtu Team_thu 3 391
+Team_pku Team_thu 3 400
+Team_sjtu 1 3 391 + +2 . +1
+Team_pku 2 3 400 + -1 +1 +2
+Team_thu 3 3 418 + -2 + +3
+[Info]Complete query ranking.
+Team_thu NOW AT RANKING 3
+[Info]Competition ends.

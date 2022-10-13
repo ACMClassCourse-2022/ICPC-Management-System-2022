@@ -1,0 +1,335 @@
+[Info]Add successfully.
+[Info]Competition starts.
+[Error]Query submission failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Error]Query ranking failed: cannot find the team.
+[Info]Freeze scoreboard.
+[Error]Query submission failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Error]Query ranking failed: cannot find the team.
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query submission.
+Team_DDP I Runtime_Error 7
+[Error]Query ranking failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Error]Query ranking failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Error]Query ranking failed: cannot find the team.
+[Error]Query ranking failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Error]Freeze failed: scoreboard has been frozen.
+[Info]Scroll scoreboard.
+Team_DDP 1 0 0 -2/4 0/3 0/3 0/6 0/5 . -1/4 0/3 0/3 0/4 0/3 0/5 0/2
+Team_DDP 1 6 334 -6 +2 -3 +2 -5 . +4 -3 +2 +2 +1 -5 -2
+[Error]Query submission failed: cannot find the team.
+[Error]Query ranking failed: cannot find the team.
+[Error]Query ranking failed: cannot find the team.
+[Error]Query ranking failed: cannot find the team.
+[Info]Complete query ranking.
+Team_DDP NOW AT RANKING 1
+[Error]Query submission failed: cannot find the team.
+[Info]Complete query ranking.
+Team_DDP NOW AT RANKING 1
+[Error]Query ranking failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Error]Query ranking failed: cannot find the team.
+[Info]Complete query ranking.
+Team_DDP NOW AT RANKING 1
+[Error]Query ranking failed: cannot find the team.
+[Info]Freeze scoreboard.
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_DDP NOW AT RANKING 1
+[Error]Query submission failed: cannot find the team.
+[Info]Complete query submission.
+Team_DDP H Time_Limit_Exceed 13
+[Error]Query ranking failed: cannot find the team.
+[Error]Query ranking failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Error]Query ranking failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Error]Query ranking failed: cannot find the team.
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Scroll scoreboard.
+Team_DDP 1 6 334 -10/1 +2 -7 +2 -8/5 -1/1 +4 -5/2 +2 +2 +1 -9/4 -4/6
+Team_DDP 1 7 619 -11 +2 -7 +2 +12 -2 +4 -7 +2 +2 +1 -13 -10
+[Error]Scroll failed: scoreboard has not been frozen.
+[Error]Query ranking failed: cannot find the team.
+[Info]Freeze scoreboard.
+[Error]Query submission failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Info]Flush scoreboard.
+[Error]Query ranking failed: cannot find the team.
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_DDP NOW AT RANKING 1
+[Error]Query submission failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Error]Query ranking failed: cannot find the team.
+[Info]Complete query submission.
+Team_DDP A Time_Limit_Exceed 59
+[Error]Query submission failed: cannot find the team.
+[Info]Scroll scoreboard.
+Team_DDP 1 8 910 +12 +2 -9 +2 +12 -4/2 +4 -11 +2 +2 +1 -15/1 -10/3
+Team_DDP 1 9 1206 +12 +2 -9 +2 +12 -6 +4 -11 +2 +2 +1 -16 +12
+[Error]Query submission failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Error]Query ranking failed: cannot find the team.
+[Info]Complete query ranking.
+Team_DDP NOW AT RANKING 1
+[Error]Query submission failed: cannot find the team.
+[Error]Query ranking failed: cannot find the team.
+[Info]Complete query ranking.
+Team_DDP NOW AT RANKING 1
+[Error]Query submission failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Info]Complete query submission.
+Team_DDP I Time_Limit_Exceed 68
+[Error]Query ranking failed: cannot find the team.
+[Error]Query ranking failed: cannot find the team.
+[Info]Complete query submission.
+Team_DDP D Time_Limit_Exceed 62
+[Error]Query ranking failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Info]Freeze scoreboard.
+[Error]Query submission failed: cannot find the team.
+[Error]Query ranking failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Error]Query ranking failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Scroll scoreboard.
+Team_DDP 1 10 1632 +12 +2 -11/2 +2 +12 -7/2 +4 -13 +2 +2 +1 +18 +12
+Team_DDP 1 10 1632 +12 +2 -13 +2 +12 -9 +4 -13 +2 +2 +1 +18 +12
+[Info]Freeze scoreboard.
+[Error]Query ranking failed: cannot find the team.
+[Error]Query ranking failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Info]Complete query submission.
+Team_DDP I Runtime_Error 88
+[Info]Complete query submission.
+Team_DDP L Time_Limit_Exceed 81
+[Error]Query ranking failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_DDP NOW AT RANKING 1
+[Info]Complete query submission.
+Team_DDP F Runtime_Error 85
+[Error]Query ranking failed: cannot find the team.
+[Error]Query ranking failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Error]Query ranking failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Error]Query ranking failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Error]Query ranking failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Info]Complete query submission.
+Team_DDP C Runtime_Error 106
+[Error]Query ranking failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Error]Query ranking failed: cannot find the team.
+[Error]Query ranking failed: cannot find the team.
+[Info]Flush scoreboard.
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_DDP NOW AT RANKING 1
+[Error]Query submission failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_DDP NOW AT RANKING 1
+[Error]Query submission failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Error]Query ranking failed: cannot find the team.
+[Error]Query ranking failed: cannot find the team.
+[Info]Complete query submission.
+Team_DDP B Time_Limit_Exceed 77
+[Error]Query ranking failed: cannot find the team.
+[Error]Query ranking failed: cannot find the team.
+[Error]Query ranking failed: cannot find the team.
+[Error]Query ranking failed: cannot find the team.
+[Info]Scroll scoreboard.
+Team_DDP 1 10 1632 +12 +2 -13/12 +2 +12 -9/11 +4 -13/8 +2 +2 +1 +18 +12
+Team_DDP 1 12 2268 +12 +2 +13 +2 +12 +10 +4 -21 +2 +2 +1 +18 +12
+[Error]Query submission failed: cannot find the team.
+[Error]Query ranking failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Error]Query ranking failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Error]Query ranking failed: cannot find the team.
+[Error]Query ranking failed: cannot find the team.
+[Info]Freeze scoreboard.
+[Error]Query submission failed: cannot find the team.
+[Info]Complete query submission.
+Team_DDP D Time_Limit_Exceed 125
+[Error]Query submission failed: cannot find the team.
+[Info]Complete query submission.
+Team_DDP I Runtime_Error 135
+[Error]Query submission failed: cannot find the team.
+[Error]Query ranking failed: cannot find the team.
+[Error]Query ranking failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Info]Scroll scoreboard.
+Team_DDP 1 12 2268 +12 +2 +13 +2 +12 +10 +4 -22/6 +2 +2 +1 +18 +12
+Team_DDP 1 13 2849 +12 +2 +13 +2 +12 +10 +4 +22 +2 +2 +1 +18 +12
+[Error]Query submission failed: cannot find the team.
+[Error]Query ranking failed: cannot find the team.
+[Error]Query ranking failed: cannot find the team.
+[Error]Query ranking failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Info]Complete query submission.
+Team_DDP G Accepted 138
+[Error]Query submission failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Info]Complete query ranking.
+Team_DDP NOW AT RANKING 1
+[Error]Query submission failed: cannot find the team.
+[Error]Query ranking failed: cannot find the team.
+[Error]Query ranking failed: cannot find the team.
+[Error]Query ranking failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Info]Complete query ranking.
+Team_DDP NOW AT RANKING 1
+[Info]Flush scoreboard.
+[Error]Query ranking failed: cannot find the team.
+[Info]Complete query ranking.
+Team_DDP NOW AT RANKING 1
+[Info]Complete query submission.
+Team_DDP L Runtime_Error 178
+[Info]Complete query submission.
+Team_DDP H Time_Limit_Exceed 138
+[Error]Query submission failed: cannot find the team.
+[Error]Scroll failed: scoreboard has not been frozen.
+[Error]Query ranking failed: cannot find the team.
+[Error]Query ranking failed: cannot find the team.
+[Info]Complete query submission.
+Team_DDP K Runtime_Error 183
+[Error]Query submission failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Info]Complete query ranking.
+Team_DDP NOW AT RANKING 1
+[Error]Query ranking failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Error]Query ranking failed: cannot find the team.
+[Error]Query ranking failed: cannot find the team.
+[Info]Freeze scoreboard.
+[Error]Query submission failed: cannot find the team.
+[Info]Complete query submission.
+Team_DDP E Time_Limit_Exceed 203
+[Error]Query ranking failed: cannot find the team.
+[Error]Query ranking failed: cannot find the team.
+[Info]Complete query submission.
+Team_DDP G Runtime_Error 83
+[Error]Query ranking failed: cannot find the team.
+[Error]Query ranking failed: cannot find the team.
+[Error]Query ranking failed: cannot find the team.
+[Error]Query ranking failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_DDP NOW AT RANKING 1
+[Error]Query ranking failed: cannot find the team.
+[Error]Query ranking failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Error]Query ranking failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Error]Query ranking failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Error]Query ranking failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Error]Query ranking failed: cannot find the team.
+[Info]Complete query submission.
+Team_DDP E Time_Limit_Exceed 224
+[Error]Query ranking failed: cannot find the team.
+[Error]Query ranking failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Info]Flush scoreboard.
+[Error]Query submission failed: cannot find the team.
+[Error]Query ranking failed: cannot find the team.
+[Info]Complete query submission.
+Team_DDP C Time_Limit_Exceed 242
+[Error]Query ranking failed: cannot find the team.
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_DDP NOW AT RANKING 1
+[Error]Query ranking failed: cannot find the team.
+[Error]Query ranking failed: cannot find the team.
+[Error]Query ranking failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Error]Query ranking failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Error]Freeze failed: scoreboard has been frozen.
+[Error]Query submission failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Error]Query ranking failed: cannot find the team.
+[Info]Complete query submission.
+Team_DDP F Runtime_Error 247
+[Info]Complete query submission.
+Team_DDP F Wrong_Answer 254
+[Error]Query ranking failed: cannot find the team.
+[Error]Query ranking failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Error]Query ranking failed: cannot find the team.
+[Error]Query ranking failed: cannot find the team.
+[Error]Query ranking failed: cannot find the team.
+[Info]Complete query submission.
+Team_DDP A Time_Limit_Exceed 247
+[Error]Query ranking failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Info]Complete query submission.
+Team_DDP D Time_Limit_Exceed 260
+[Error]Query submission failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Error]Query ranking failed: cannot find the team.
+[Info]Complete query submission.
+Team_DDP L Time_Limit_Exceed 277
+[Info]Scroll scoreboard.
+Team_DDP 1 13 2849 +12 +2 +13 +2 +12 +10 +4 +22 +2 +2 +1 +18 +12
+Team_DDP 1 13 2849 +12 +2 +13 +2 +12 +10 +4 +22 +2 +2 +1 +18 +12
+[Error]Query ranking failed: cannot find the team.
+[Info]Complete query ranking.
+Team_DDP NOW AT RANKING 1
+[Error]Query ranking failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Info]Complete query ranking.
+Team_DDP NOW AT RANKING 1
+[Error]Query submission failed: cannot find the team.
+[Error]Query ranking failed: cannot find the team.
+[Error]Scroll failed: scoreboard has not been frozen.
+[Error]Query submission failed: cannot find the team.
+[Error]Query ranking failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Info]Flush scoreboard.
+[Error]Query submission failed: cannot find the team.
+[Info]Competition ends.

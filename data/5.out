@@ -1,0 +1,674 @@
+[Info]Add successfully.
+[Info]Add successfully.
+[Info]Add successfully.
+[Info]Add successfully.
+[Info]Add successfully.
+[Info]Add successfully.
+[Info]Add successfully.
+[Info]Add successfully.
+[Info]Add successfully.
+[Info]Add successfully.
+[Info]Add successfully.
+[Info]Add successfully.
+[Info]Add successfully.
+[Info]Add successfully.
+[Info]Add successfully.
+[Info]Competition starts.
+[Info]Complete query submission.
+Cannot find any submission.
+[Error]Query ranking failed: cannot find the team.
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query ranking.
+Team_JUUGDZ NOW AT RANKING 6
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query ranking.
+Team_HFDYAYYR NOW AT RANKING 3
+[Error]Query ranking failed: cannot find the team.
+[Info]Complete query ranking.
+Team_HQGP NOW AT RANKING 4
+[Info]Complete query submission.
+Cannot find any submission.
+[Error]Query submission failed: cannot find the team.
+[Info]Complete query ranking.
+Team_OCQTUR NOW AT RANKING 8
+[Info]Complete query submission.
+Team_HFDYAYYR C Accepted 1
+[Info]Complete query ranking.
+Team_RPX NOW AT RANKING 11
+[Error]Query submission failed: cannot find the team.
+[Info]Freeze scoreboard.
+[Info]Complete query submission.
+Cannot find any submission.
+[Error]Query submission failed: cannot find the team.
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_YRLGYQE NOW AT RANKING 15
+[Info]Scroll scoreboard.
+Team_LRNCQ 1 2 2 + -1 . . . . + . . 0/1
+Team_HFDYAYYR 2 1 1 . . + 0/1 . . . . . .
+Team_RPX 3 1 1 . . . . . . 0/1 -2 + .
+Team_RSD 4 1 1 -1 . 0/1 + 0/1 . . . . .
+Team_DYRDP 5 0 0 . . . . . -1/1 -1 0/2 . -1
+Team_FVYQC 6 0 0 . . -1 . -1 . -2 . . 0/1
+Team_HQGP 7 0 0 . . . . . . . . . -1
+Team_IOV 8 0 0 -1 . . -1 . . . . -1 .
+Team_JUUGDZ 9 0 0 . -1/1 0/1 . . . . . . .
+Team_OCQTUR 10 0 0 . . 0/1 . . . . . -2 .
+Team_PWILOWV 11 0 0 -1 . . . . . . . . -1
+Team_QNI 12 0 0 0/1 . -1 0/1 . 0/1 -1 -1 -1 .
+Team_SBHXBACR 13 0 0 . . . . . . 0/1 . . .
+Team_YOFUI 14 0 0 . 0/1 . . . -1/1 . . . .
+Team_YRLGYQE 15 0 0 . . -1/1 . . . . . -1 -1
+Team_YRLGYQE Team_DYRDP 1 21
+Team_JUUGDZ Team_RPX 1 1
+Team_DYRDP Team_YRLGYQE 1 21
+Team_LRNCQ 1 3 3 + -1 . . . . + . . +
+Team_HFDYAYYR 2 1 1 . . + -1 . . . . . .
+Team_JUUGDZ 3 1 1 . -2 + . . . . . . .
+Team_RPX 4 1 1 . . . . . . -1 -2 + .
+Team_RSD 5 1 1 -1 . -1 + -1 . . . . .
+Team_DYRDP 6 1 21 . . . . . +1 -1 -2 . -1
+Team_YRLGYQE 7 1 21 . . +1 . . . . . -1 -1
+Team_FVYQC 8 0 0 . . -1 . -1 . -2 . . -1
+Team_HQGP 9 0 0 . . . . . . . . . -1
+Team_IOV 10 0 0 -1 . . -1 . . . . -1 .
+Team_OCQTUR 11 0 0 . . -1 . . . . . -2 .
+Team_PWILOWV 12 0 0 -1 . . . . . . . . -1
+Team_QNI 13 0 0 -1 . -1 -1 . -1 -1 -1 -1 .
+Team_SBHXBACR 14 0 0 . . . . . . -1 . . .
+Team_YOFUI 15 0 0 . -1 . . . -2 . . . .
+[Info]Complete query ranking.
+Team_JUUGDZ NOW AT RANKING 3
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query ranking.
+Team_JUUGDZ NOW AT RANKING 3
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query ranking.
+Team_IOV NOW AT RANKING 10
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query submission.
+Team_JUUGDZ C Accepted 1
+[Info]Freeze scoreboard.
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_PWILOWV NOW AT RANKING 12
+[Info]Complete query submission.
+Team_IOV D Time_Limit_Exceed 1
+[Info]Complete query submission.
+Cannot find any submission.
+[Error]Query submission failed: cannot find the team.
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_JUUGDZ NOW AT RANKING 3
+[Error]Query ranking failed: cannot find the team.
+[Info]Complete query submission.
+Team_DYRDP B Time_Limit_Exceed 1
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_HQGP NOW AT RANKING 9
+[Info]Complete query submission.
+Cannot find any submission.
+[Error]Query ranking failed: cannot find the team.
+[Info]Complete query submission.
+Team_RSD H Runtime_Error 1
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_YOFUI NOW AT RANKING 15
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_QNI NOW AT RANKING 13
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_SBHXBACR NOW AT RANKING 14
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_HQGP NOW AT RANKING 9
+[Info]Complete query submission.
+Team_PWILOWV A Wrong_Answer 1
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Flush scoreboard.
+[Error]Query submission failed: cannot find the team.
+[Error]Query ranking failed: cannot find the team.
+[Error]Query ranking failed: cannot find the team.
+[Info]Scroll scoreboard.
+Team_LRNCQ 1 3 3 + -1 . 0/1 . -1/2 + -1/1 . +
+Team_HFDYAYYR 2 2 2 . . + -1/1 . 0/2 + 0/1 0/3 .
+Team_DYRDP 3 2 22 0/1 -1/1 . 0/1 + +1 -1 -2/2 . -1
+Team_JUUGDZ 4 1 1 0/2 -3 + . . . . . . 0/1
+Team_RPX 5 1 1 0/3 -1 . . 0/1 . -1 -2/1 + 0/1
+Team_RSD 6 1 1 -1/2 . -2 + -1 0/2 . 0/2 -1 .
+Team_HQGP 7 1 21 . -1 0/1 -1 . . +1 . . -2/1
+Team_YRLGYQE 8 1 21 0/1 . +1 . 0/1 . 0/1 0/1 -1/1 -1
+Team_FVYQC 9 0 0 . -1 -2 . -1/2 -1/2 -2 0/1 . -1
+Team_IOV 10 0 0 -1 0/2 0/3 -1/1 . 0/1 . . -1 .
+Team_OCQTUR 11 0 0 . 0/1 -1 . 0/1 . 0/1 0/1 -3/1 -1/2
+Team_PWILOWV 12 0 0 -1 . . . . . . -1/1 0/2 -1/3
+Team_QNI 13 0 0 -2/1 0/1 -2 -1 . -1/2 -1/1 -2 -1/1 .
+Team_SBHXBACR 14 0 0 0/2 0/1 . . 0/3 -1 -1 . 0/3 0/1
+Team_YOFUI 15 0 0 . -1/1 0/1 . . -2 . 0/1 0/2 -1
+Team_SBHXBACR Team_YRLGYQE 1 21
+Team_QNI Team_SBHXBACR 1 21
+Team_OCQTUR Team_RPX 1 1
+Team_IOV Team_JUUGDZ 1 1
+Team_HQGP Team_IOV 2 22
+Team_RSD Team_IOV 2 22
+Team_OCQTUR Team_IOV 2 62
+Team_JUUGDZ Team_DYRDP 2 2
+Team_IOV Team_OCQTUR 2 42
+Team_LRNCQ 1 3 3 + -1 . -1 . -3 + -2 . +
+Team_HFDYAYYR 2 2 2 . . + -2 . -2 + -1 -3 .
+Team_JUUGDZ 3 2 2 + -3 + . . . . . . -1
+Team_DYRDP 4 2 22 -1 -2 . -1 + +1 -1 -4 . -1
+Team_HQGP 5 2 22 . -1 + -1 . . +1 . . -3
+Team_RSD 6 2 22 -3 . -2 + -1 +1 . -2 -1 .
+Team_IOV 7 2 42 -1 + +2 -2 . -1 . . -1 .
+Team_OCQTUR 8 2 62 . -1 -1 . + . -1 -1 +3 -3
+Team_RPX 9 1 1 -3 -1 . . -1 . -1 -3 + -1
+Team_QNI 10 1 21 -3 -1 -2 -1 . -3 +1 -2 -2 .
+Team_SBHXBACR 11 1 21 -2 -1 . . -3 -1 -1 . +1 -1
+Team_YRLGYQE 12 1 21 -1 . +1 . -1 . -1 -1 -2 -1
+Team_FVYQC 13 0 0 . -1 -2 . -3 -3 -2 -1 . -1
+Team_PWILOWV 14 0 0 -1 . . . . . . -2 -2 -4
+Team_YOFUI 15 0 0 . -2 -1 . . -2 . -1 -2 -1
+[Info]Complete query ranking.
+Team_DYRDP NOW AT RANKING 4
+[Info]Complete query submission.
+Team_SBHXBACR G Time_Limit_Exceed 1
+[Info]Complete query ranking.
+Team_YRLGYQE NOW AT RANKING 12
+[Info]Complete query ranking.
+Team_YOFUI NOW AT RANKING 15
+[Info]Complete query ranking.
+Team_LRNCQ NOW AT RANKING 1
+[Info]Complete query ranking.
+Team_PWILOWV NOW AT RANKING 14
+[Error]Scroll failed: scoreboard has not been frozen.
+[Error]Query ranking failed: cannot find the team.
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Freeze scoreboard.
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_IOV NOW AT RANKING 7
+[Info]Complete query submission.
+Team_FVYQC B Wrong_Answer 1
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_RPX NOW AT RANKING 9
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_OCQTUR NOW AT RANKING 8
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_IOV NOW AT RANKING 7
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_LRNCQ NOW AT RANKING 1
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_IOV NOW AT RANKING 7
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_SBHXBACR NOW AT RANKING 11
+[Error]Freeze failed: scoreboard has been frozen.
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_HFDYAYYR NOW AT RANKING 2
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_QNI NOW AT RANKING 10
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_RSD NOW AT RANKING 6
+[Error]Query ranking failed: cannot find the team.
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_DYRDP NOW AT RANKING 4
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_YRLGYQE NOW AT RANKING 12
+[Info]Complete query submission.
+Team_YRLGYQE E Time_Limit_Exceed 1
+[Error]Query submission failed: cannot find the team.
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_HQGP NOW AT RANKING 5
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_PWILOWV NOW AT RANKING 14
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_IOV NOW AT RANKING 7
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_OCQTUR NOW AT RANKING 8
+[Error]Query ranking failed: cannot find the team.
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_PWILOWV NOW AT RANKING 14
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_RSD NOW AT RANKING 6
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query submission.
+Team_QNI F Runtime_Error 1
+[Info]Complete query submission.
+Team_RPX G Runtime_Error 1
+[Info]Flush scoreboard.
+[Info]Complete query submission.
+Team_PWILOWV D Accepted 1
+[Error]Query submission failed: cannot find the team.
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_JUUGDZ NOW AT RANKING 5
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_FVYQC NOW AT RANKING 14
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_RSD NOW AT RANKING 2
+[Error]Query submission failed: cannot find the team.
+[Error]Query ranking failed: cannot find the team.
+[Info]Complete query submission.
+Team_FVYQC J Time_Limit_Exceed 1
+[Info]Complete query submission.
+Cannot find any submission.
+[Error]Query ranking failed: cannot find the team.
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query submission.
+Team_JUUGDZ H Time_Limit_Exceed 1
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_YOFUI NOW AT RANKING 15
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_RPX NOW AT RANKING 12
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_QNI NOW AT RANKING 13
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_DYRDP NOW AT RANKING 7
+[Info]Complete query submission.
+Team_PWILOWV I Accepted 1
+[Info]Complete query submission.
+Cannot find any submission.
+[Error]Freeze failed: scoreboard has been frozen.
+[Error]Freeze failed: scoreboard has been frozen.
+[Error]Query submission failed: cannot find the team.
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_RPX NOW AT RANKING 12
+[Info]Complete query submission.
+Team_RSD E Time_Limit_Exceed 1
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_JUUGDZ NOW AT RANKING 5
+[Error]Query ranking failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Info]Complete query submission.
+Cannot find any submission.
+[Error]Query ranking failed: cannot find the team.
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_JUUGDZ NOW AT RANKING 5
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_SBHXBACR NOW AT RANKING 9
+[Error]Query ranking failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Info]Complete query submission.
+Team_QNI A Wrong_Answer 1
+[Info]Scroll scoreboard.
+Team_LRNCQ 1 3 3 + -1/2 0/1 -1/2 . -3 + -2/1 0/2 +
+Team_RSD 2 3 63 -3 0/1 +2 + -1 +1 0/1 -2/1 -1 0/1
+Team_YRLGYQE 3 3 63 +2 + +1 0/1 -1 0/3 -1/2 -1 -2/1 -1
+Team_HFDYAYYR 4 2 2 0/2 0/2 + -3 0/2 -2/1 + -1/2 -3 0/2
+Team_JUUGDZ 5 2 2 + -3/2 + . 0/3 -1/2 . -1/2 0/1 -1/1
+Team_PWILOWV 6 2 2 -2/1 -1 + + -1/2 0/1 0/2 -2/1 -2/2 -4/1
+Team_DYRDP 7 2 22 -1/1 -2/1 . -1 + +1 -1/1 -4 . -1
+Team_HQGP 8 2 22 0/1 -1/2 + -2 -1/2 . +1 0/1 -2/4 -3
+Team_SBHXBACR 9 2 22 -2/3 -1 0/2 -1 -3/1 -1 -1 + +1 -1/2
+Team_IOV 10 2 42 -1 + +2 -3 0/1 -1 0/2 0/3 -1/2 -2
+Team_OCQTUR 11 2 62 -1/1 -1/2 -1/5 0/1 + 0/1 -1/3 -1/1 +3 -3
+Team_RPX 12 1 1 -3/3 -1/1 -1/1 0/1 -1/1 . -2/1 -3/1 + -2/2
+Team_QNI 13 1 21 -3/1 -1/2 -2 -1/1 -1/2 -3/1 +1 -3 -2/3 0/2
+Team_FVYQC 14 0 0 0/1 -1 -2/3 0/2 -3 -3 -2/1 -1/1 0/2 -2/1
+Team_YOFUI 15 0 0 0/2 -2/3 -1/3 0/1 . -2/2 0/3 -1/1 -2/2 -2/2
+Team_YOFUI Team_QNI 1 1
+Team_QNI Team_RPX 2 62
+Team_YOFUI Team_OCQTUR 2 42
+Team_QNI Team_HFDYAYYR 3 83
+Team_OCQTUR Team_HFDYAYYR 3 103
+Team_IOV Team_RSD 3 63
+Team_SBHXBACR Team_YRLGYQE 3 63
+Team_HQGP Team_IOV 3 63
+Team_PWILOWV Team_RSD 3 63
+Team_JUUGDZ Team_HQGP 3 23
+Team_HFDYAYYR Team_LRNCQ 3 3
+Team_YRLGYQE Team_HFDYAYYR 4 64
+Team_SBHXBACR Team_HFDYAYYR 4 104
+Team_IOV Team_YRLGYQE 4 64
+Team_LRNCQ Team_IOV 4 44
+Team_HFDYAYYR Team_LRNCQ 4 44
+Team_LRNCQ Team_HFDYAYYR 5 85
+Team_LRNCQ 1 5 85 + -3 -1 +2 . -3 + +2 -2 +
+Team_HFDYAYYR 2 4 44 + -2 + -3 -2 +2 + -3 -3 -2
+Team_IOV 3 4 64 -1 + +2 -3 -1 -1 +1 + -3 -2
+Team_YRLGYQE 4 4 64 +2 + +1 + -1 -3 -3 -1 -3 -1
+Team_SBHXBACR 5 4 104 +2 -1 -2 -1 -4 -1 -1 + +1 +2
+Team_JUUGDZ 6 3 23 + -5 + . -3 -3 . -3 -1 +1
+Team_HQGP 7 3 63 -1 +2 + -2 -3 . +1 -1 -6 -3
+Team_PWILOWV 8 3 63 -3 -1 + + -3 -1 -2 -3 +3 -5
+Team_RSD 9 3 63 -3 -1 +2 + -1 +1 -1 -3 -1 -1
+Team_QNI 10 3 83 -4 -3 -2 -2 -3 -4 +1 -3 +2 +1
+Team_OCQTUR 11 3 103 -2 -3 -6 -1 + -1 +2 -2 +3 -3
+Team_DYRDP 12 2 22 -2 -3 . -1 + +1 -2 -4 . -1
+Team_YOFUI 13 2 42 + -5 -4 -1 . -4 -3 -2 -4 +2
+Team_RPX 14 1 1 -6 -2 -2 -1 -2 . -3 -4 + -4
+Team_FVYQC 15 0 0 -1 -1 -5 -2 -3 -3 -3 -2 -2 -3
+[Info]Complete query ranking.
+Team_LRNCQ NOW AT RANKING 1
+[Info]Complete query ranking.
+Team_PWILOWV NOW AT RANKING 8
+[Info]Complete query ranking.
+Team_RPX NOW AT RANKING 14
+[Info]Complete query submission.
+Team_RSD C Runtime_Error 1
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query ranking.
+Team_IOV NOW AT RANKING 3
+[Info]Complete query submission.
+Team_PWILOWV E Runtime_Error 1
+[Error]Query submission failed: cannot find the team.
+[Info]Complete query submission.
+Team_YRLGYQE I Runtime_Error 1
+[Info]Complete query ranking.
+Team_HQGP NOW AT RANKING 7
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query ranking.
+Team_HFDYAYYR NOW AT RANKING 2
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Flush scoreboard.
+[Info]Complete query ranking.
+Team_RPX NOW AT RANKING 14
+[Info]Complete query ranking.
+Team_JUUGDZ NOW AT RANKING 7
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query ranking.
+Team_HFDYAYYR NOW AT RANKING 3
+[Info]Complete query ranking.
+Team_RSD NOW AT RANKING 9
+[Error]Query submission failed: cannot find the team.
+[Error]Query ranking failed: cannot find the team.
+[Info]Complete query ranking.
+Team_PWILOWV NOW AT RANKING 8
+[Info]Complete query ranking.
+Team_RSD NOW AT RANKING 9
+[Info]Complete query ranking.
+Team_RPX NOW AT RANKING 14
+[Error]Query ranking failed: cannot find the team.
+[Info]Complete query ranking.
+Team_JUUGDZ NOW AT RANKING 7
+[Error]Query submission failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Info]Complete query ranking.
+Team_LRNCQ NOW AT RANKING 1
+[Info]Complete query submission.
+Team_HQGP D Time_Limit_Exceed 1
+[Error]Query ranking failed: cannot find the team.
+[Info]Complete query ranking.
+Team_RPX NOW AT RANKING 14
+[Info]Freeze scoreboard.
+[Info]Complete query submission.
+Team_QNI B Runtime_Error 1
+[Error]Query submission failed: cannot find the team.
+[Info]Complete query submission.
+Team_RSD H Runtime_Error 1
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_RPX NOW AT RANKING 14
+[Error]Query submission failed: cannot find the team.
+[Info]Complete query submission.
+Cannot find any submission.
+[Error]Query submission failed: cannot find the team.
+[Error]Freeze failed: scoreboard has been frozen.
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_JUUGDZ NOW AT RANKING 7
+[Error]Query ranking failed: cannot find the team.
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_RPX NOW AT RANKING 14
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_YRLGYQE NOW AT RANKING 2
+[Info]Complete query submission.
+Team_YRLGYQE F Runtime_Error 1
+[Error]Query ranking failed: cannot find the team.
+[Error]Query ranking failed: cannot find the team.
+[Info]Complete query submission.
+Team_OCQTUR B Time_Limit_Exceed 1
+[Error]Query ranking failed: cannot find the team.
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_SBHXBACR NOW AT RANKING 5
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_IOV NOW AT RANKING 4
+[Info]Complete query submission.
+Team_JUUGDZ C Time_Limit_Exceed 1
+[Error]Query ranking failed: cannot find the team.
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_QNI NOW AT RANKING 10
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_PWILOWV NOW AT RANKING 8
+[Error]Query ranking failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Info]Flush scoreboard.
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_OCQTUR NOW AT RANKING 12
+[Info]Complete query submission.
+Team_HFDYAYYR A Wrong_Answer 1
+[Info]Complete query submission.
+Team_QNI D Time_Limit_Exceed 1
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_JUUGDZ NOW AT RANKING 1
+[Info]Complete query submission.
+Team_IOV G Wrong_Answer 1
+[Error]Freeze failed: scoreboard has been frozen.
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query submission.
+Team_JUUGDZ G Wrong_Answer 1
+[Info]Complete query submission.
+Cannot find any submission.
+[Error]Query submission failed: cannot find the team.
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_IOV NOW AT RANKING 5
+[Info]Complete query submission.
+Team_IOV I Accepted 1
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_IOV NOW AT RANKING 5
+[Error]Query ranking failed: cannot find the team.
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+Team_HQGP NOW AT RANKING 8
+[Info]Scroll scoreboard.
+Team_JUUGDZ 1 6 146 + +5 + + -3/1 -3 +1 -3/2 -1/1 +1
+Team_LRNCQ 2 5 85 + -3/1 -1 +2 -1/1 -3/2 + +2 -3/1 +
+Team_SBHXBACR 3 5 125 +2 -2/2 -5/1 +1 -5/1 -1/2 -2 + +1 +2
+Team_YRLGYQE 4 5 125 +2 + +1 + -2/1 -3/1 -3/2 -2/2 +3 -2
+Team_IOV 5 5 145 -1/2 + +2 -3/1 -1 -1 +1 + +4 -2
+Team_HFDYAYYR 6 4 44 + -2/2 + -3/1 -3/1 +2 + -6/1 -4/1 -2/3
+Team_PWILOWV 7 4 84 -3/1 +1 + + -3 -4/1 -2 -4/1 +3 -5
+Team_HQGP 8 4 124 -3 +2 + -3 +3 -2/1 +1 -3 -6 -3
+Team_RSD 9 3 63 -4 -2/1 +2 + -2/1 +1 -1/1 -5/1 -1/2 -2/2
+Team_QNI 10 3 83 -4/1 -4/2 -2 -2/1 -3/1 -4/3 +1 -3/1 +2 +1
+Team_YOFUI 11 3 83 + -6 -7/2 -2 -2/1 -4/1 -4/1 +2 -5 +2
+Team_OCQTUR 12 3 103 -2/3 -4 -6/1 -1/1 + -2/2 +2 -4 +3 -3/1
+Team_DYRDP 13 2 22 -2/1 -4 -2 -3/3 + +1 -2 -4/1 . -1/1
+Team_RPX 14 1 1 -7 -5/1 -2/1 -2 -2/2 -1/1 -3 -5 + -5
+Team_FVYQC 15 0 0 -1/1 -2 -5 -3 -3/2 -3 -3 -3/1 -2/1 -3/1
+Team_DYRDP Team_OCQTUR 3 103
+Team_OCQTUR Team_RSD 4 224
+Team_DYRDP Team_HQGP 4 124
+Team_YOFUI Team_RSD 4 224
+Team_QNI Team_OCQTUR 4 204
+Team_YOFUI Team_HFDYAYYR 5 265
+Team_OCQTUR Team_HFDYAYYR 5 285
+Team_HFDYAYYR Team_YOFUI 5 165
+Team_HFDYAYYR Team_LRNCQ 6 206
+Team_JUUGDZ 1 6 146 + +5 + + -4 -3 +1 -5 -2 +1
+Team_HFDYAYYR 2 6 206 + -4 + -4 -4 +2 + +6 -5 +2
+Team_LRNCQ 3 5 85 + -4 -1 +2 -2 -5 + +2 -4 +
+Team_SBHXBACR 4 5 125 +2 -4 -6 +1 -6 -3 -2 + +1 +2
+Team_YRLGYQE 5 5 125 +2 + +1 + -3 -4 -5 -4 +3 -2
+Team_IOV 6 5 145 -3 + +2 -4 -1 -1 +1 + +4 -2
+Team_YOFUI 7 5 265 + -6 +7 -2 +2 -5 -5 +2 -5 +2
+Team_OCQTUR 8 5 285 -5 -4 +6 -2 + +3 +2 -4 +3 -4
+Team_PWILOWV 9 4 84 -4 +1 + + -3 -5 -2 -5 +3 -5
+Team_DYRDP 10 4 124 -3 -4 -2 +4 + +1 -2 -5 . +1
+Team_HQGP 11 4 124 -3 +2 + -3 +3 -3 +1 -3 -6 -3
+Team_QNI 12 4 204 -5 -6 -2 -3 -4 +6 +1 -4 +2 +1
+Team_RSD 13 3 63 -4 -3 +2 + -3 +1 -2 -6 -3 -4
+Team_RPX 14 1 1 -7 -6 -3 -2 -4 -2 -3 -5 + -5
+Team_FVYQC 15 0 0 -2 -2 -5 -3 -5 -3 -3 -4 -3 -4
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query submission.
+Team_SBHXBACR E Runtime_Error 1
+[Info]Complete query submission.
+Team_OCQTUR B Wrong_Answer 1
+[Info]Complete query submission.
+Team_RPX G Wrong_Answer 1
+[Error]Query submission failed: cannot find the team.
+[Error]Query submission failed: cannot find the team.
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query submission.
+Team_IOV H Wrong_Answer 1
+[Error]Query ranking failed: cannot find the team.
+[Error]Scroll failed: scoreboard has not been frozen.
+[Info]Complete query submission.
+Team_LRNCQ B Wrong_Answer 1
+[Info]Complete query submission.
+Team_YOFUI G Wrong_Answer 1
+[Info]Complete query ranking.
+Team_FVYQC NOW AT RANKING 15
+[Info]Complete query submission.
+Team_JUUGDZ C Runtime_Error 1
+[Error]Query submission failed: cannot find the team.
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query ranking.
+Team_DYRDP NOW AT RANKING 10
+[Info]Complete query ranking.
+Team_YOFUI NOW AT RANKING 7
+[Error]Query ranking failed: cannot find the team.
+[Info]Complete query submission.
+Team_LRNCQ F Wrong_Answer 1
+[Info]Complete query ranking.
+Team_PWILOWV NOW AT RANKING 9
+[Info]Complete query ranking.
+Team_SBHXBACR NOW AT RANKING 4
+[Info]Complete query ranking.
+Team_RSD NOW AT RANKING 13
+[Info]Complete query submission.
+Team_JUUGDZ E Wrong_Answer 1
+[Error]Query submission failed: cannot find the team.
+[Error]Scroll failed: scoreboard has not been frozen.
+[Info]Freeze scoreboard.
+[Info]Flush scoreboard.
+[Info]Scroll scoreboard.
+Team_JUUGDZ 1 7 247 + +5 + + -5 -3 +1 +5 -2 +1
+Team_HFDYAYYR 2 6 206 + -4 + -4 -5 +2 + +6 -6 +2
+Team_OCQTUR 3 6 386 -5 -4 +6 -2 + +3 +2 +5 +3 -5
+Team_LRNCQ 4 5 85 + -5 -1 +2 -3 -7 + +2 -5 +
+Team_SBHXBACR 5 5 125 +2 -4 -6 +1 -7 -3 -3 + +1 +2
+Team_YRLGYQE 6 5 125 +2 + +1 + -3 -6 -5 -4 +3 -4
+Team_IOV 7 5 145 -4 + +2 -4 -1 -1 +1 + +4 -2
+Team_PWILOWV 8 5 185 -4 +1 + + -4 -5 -2 +5 +3 -5
+Team_DYRDP 9 5 225 -6 +5 -3 +4 + +1 -5 -7/1 . +1
+Team_YOFUI 10 5 265 + -6 +7 -3 +2 -6 -5 +2 -6 +2
+Team_HQGP 11 4 124 -3 +2 + -3 +3 -3 +1 -3 -8 -5
+Team_QNI 12 4 204 -5 -6 -3 -4 -6 +6 +1 -5 +2 +1
+Team_RSD 13 3 63 -5 -3 +2 + -3 +1 -2 -6 -3 -5
+Team_RPX 14 1 1 -7 -6 -5 -4 -7 -2 -5 -5 + -5
+Team_FVYQC 15 0 0 -3 -2 -7 -4 -6 -7 -6 -4 -4 -4
+Team_JUUGDZ 1 7 247 + +5 + + -5 -3 +1 +5 -2 +1
+Team_HFDYAYYR 2 6 206 + -4 + -4 -5 +2 + +6 -6 +2
+Team_OCQTUR 3 6 386 -5 -4 +6 -2 + +3 +2 +5 +3 -5
+Team_LRNCQ 4 5 85 + -5 -1 +2 -3 -7 + +2 -5 +
+Team_SBHXBACR 5 5 125 +2 -4 -6 +1 -7 -3 -3 + +1 +2
+Team_YRLGYQE 6 5 125 +2 + +1 + -3 -6 -5 -4 +3 -4
+Team_IOV 7 5 145 -4 + +2 -4 -1 -1 +1 + +4 -2
+Team_PWILOWV 8 5 185 -4 +1 + + -4 -5 -2 +5 +3 -5
+Team_DYRDP 9 5 225 -6 +5 -3 +4 + +1 -5 -8 . +1
+Team_YOFUI 10 5 265 + -6 +7 -3 +2 -6 -5 +2 -6 +2
+Team_HQGP 11 4 124 -3 +2 + -3 +3 -3 +1 -3 -8 -5
+Team_QNI 12 4 204 -5 -6 -3 -4 -6 +6 +1 -5 +2 +1
+Team_RSD 13 3 63 -5 -3 +2 + -3 +1 -2 -6 -3 -5
+Team_RPX 14 1 1 -7 -6 -5 -4 -7 -2 -5 -5 + -5
+Team_FVYQC 15 0 0 -3 -2 -7 -4 -6 -7 -6 -4 -4 -4
+[Info]Competition ends.

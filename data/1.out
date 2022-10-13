@@ -1,0 +1,58 @@
+[Info]Add successfully.
+[Info]Add successfully.
+[Info]Add successfully.
+[Info]Competition starts.
+[Error]Scroll failed: scoreboard has not been frozen.
+[Info]Complete query submission.
+Cannot find any submission.
+[Error]Add failed: competition has started.
+[Error]Add failed: competition has started.
+[Error]Add failed: competition has started.
+[Error]Add failed: competition has started.
+[Error]Start failed: competition has started.
+[Info]Flush scoreboard.
+[Info]Freeze scoreboard.
+[Error]Freeze failed: scoreboard has been frozen.
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+team1 NOW AT RANKING 2
+[Info]Flush scoreboard.
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+team0 NOW AT RANKING 1
+[Info]Scroll scoreboard.
+team0 1 3 16 + + + -1 . . . . . .
+team1 2 0 0 . . . . . . . . . .
+team2 3 0 0 . . . . . . . . . .
+team0 1 3 16 + + + -1 . . . . . .
+team1 2 0 0 . . . . . . . . . .
+team2 3 0 0 . . . . . . . . . .
+[Error]Scroll failed: scoreboard has not been frozen.
+[Info]Freeze scoreboard.
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+team0 NOW AT RANKING 1
+[Info]Complete query ranking.
+[Warning]Scoreboard is frozen. The ranking may be inaccurate until it were scrolled.
+team0 NOW AT RANKING 1
+[Error]Freeze failed: scoreboard has been frozen.
+[Info]Scroll scoreboard.
+team0 1 4 36 + + + -1 + 0/1 . . . .
+team1 2 0 0 . . . . . . . . . .
+team2 3 0 0 . . . . . . . . . .
+team0 1 5 66 + + + -1 + + . . . .
+team1 2 0 0 . . . . . . . . . .
+team2 3 0 0 . . . . . . . . . .
+[Info]Complete query ranking.
+team0 NOW AT RANKING 1
+[Error]Query ranking failed: cannot find the team.
+[Info]Complete query ranking.
+team2 NOW AT RANKING 3
+[Info]Complete query submission.
+team0 A Accepted 1
+[Info]Complete query submission.
+Cannot find any submission.
+[Info]Complete query submission.
+Cannot find any submission.
+[Error]Query submission failed: cannot find the team.
+[Info]Competition ends.
