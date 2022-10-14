@@ -67,7 +67,7 @@
 下面是需要说明的几点：
 
 - 题目 ICPC Management System (2022 B) 的所有测试点的时间限制是 ICPC Management System (2022 A) 的 **4 倍**。
-- Code Review 也是大作业中重要的一部分，在 Code Review 中我们会 **严格审查你的代码风格**， TA 建议使用 [谷歌标准](https://zh-google-styleguide.readthedocs.io/en/latest/) 或 [ISO标准](https://isocpp.org/wiki/faq/coding-standards)。你也可以选择其他标准或使用你自己的标准，但请在 Code Review 时说明。
+- Code Review 也是大作业中重要的一部分，在 Code Review 中我们会 **严格审查你的代码风格**，请遵循[代码风格要求](https://acm.sjtu.edu.cn/wiki/Programming_2022/%E4%BB%A3%E7%A0%81%E9%A3%8E%E6%A0%BC)。
 
 ### ⏱截止时间
 
