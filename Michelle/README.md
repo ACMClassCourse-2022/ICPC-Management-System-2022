@@ -107,9 +107,9 @@ END
 
 学生总数为 $n$ ，操作次数为 $\mathit{opt}$ 。
 
-对于 60% 数据， $n\le 100$ ，$\mathit{opt}\le 3\times 10^3$ 。​​
+对于 60% 数据， $n\le 100$ ， $\mathit{opt}\le 3\times 10^3$ 。​​
 
-对于 100% 数据， $n\le 10^4$ ，$\mathit{opt}\le 3\times 10^5$ ​。​
+对于 100% 数据， $n\le 10^4$ ， $\mathit{opt}\le 3\times 10^5$ ​。​
 
 ## 5 提示
 
