@@ -205,7 +205,6 @@ END
 - 滚榜
 
   - `SCROLL`
-  - 刷新当前榜单并进行滚榜操作。
     - 若未封榜，则输出 `[Error]Scroll failed: scoreboard has not been frozen.`
     - 若已封榜，则可以开始滚榜，
       - 首先输出提示语 `[Info]Scroll scoreboard.\n`，
